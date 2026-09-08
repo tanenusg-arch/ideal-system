@@ -1,0 +1,16 @@
+{
+  "name": "yabtopup-bot",
+  "version": "1.0.0",
+  "main": "broski_webhook_render.js",
+  "scripts": { "start": "node broski_webhook_render.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "firebase": "^11.2.0",
+    "telegraf": "^4.16.3",
+    "uuid": "^11.0.5",
+    "winston": "^3.17.0"
+  }
+}
