@@ -2609,7 +2609,7 @@ async function sendMainMenu(ctx, db, messageIdToEdit = null) {
     .replace(/"/g, "&quot;");
   const brandName = `{emoji:BRAND_Y}{emoji:BRAND_A}{emoji:BRAND_B}{emoji:BRAND_T}{emoji:BRAND_O}{emoji:BRAND_P}{emoji:BRAND_U}{emoji:BRAND_P}`;
   const caption =
-    `<b>Welcome to ${brandName}!</b>\n\n` +
+    `${brandName}\n\n` +
     `{emoji:HOME} <b>Welcome, ${safeTgName}!</b> {emoji:START_HAND}\n\n` +
     `Your trusted top-up{emoji:CONFIRM} shop{emoji:START_CART} for Telegram, TikTok, Gemini, CapCut, Free Fire and premium subscriptions.\n\n` +
     `Use the buttons{emoji:START_DOWN} below to shop, manage your wallet, view orders or get support.`;
