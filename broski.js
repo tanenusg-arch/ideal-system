@@ -2607,7 +2607,7 @@ async function sendMainMenu(ctx, db, messageIdToEdit = null) {
     .replace(/</g, "&lt;")
     .replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;");
-  const brandName = `{emoji:BRAND_Y}{emoji:BRAND_A}{emoji:BRAND_B} {emoji:BRAND_T}{emoji:BRAND_O}{emoji:BRAND_P}{emoji:BRAND_U}{emoji:BRAND_P}`;
+  const brandName = `{emoji:BRAND_Y}{emoji:BRAND_A}{emoji:BRAND_B}{emoji:BRAND_T}{emoji:BRAND_O}{emoji:BRAND_P}{emoji:BRAND_U}{emoji:BRAND_P}`;
   const caption =
     `<b>Welcome to ${brandName}!</b>\n\n` +
     `{emoji:HOME} <b>Welcome, ${safeTgName}!</b> {emoji:START_HAND}\n\n` +
