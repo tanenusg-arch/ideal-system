@@ -71,7 +71,7 @@ const logger = winston.createLogger({
 // Replace each placeholder with your own NEW credential before running.
 // Do not share this file after adding real secrets.
 // ------------------------------------------------------------------
-const BOT_TOKEN = "8755046352:AAGhonFRoGmEMv0H0RAzFv3OuHR_QVSd3PI'";
+const BOT_TOKEN = "8755046352:AAGhonFRoGmEMv0H0RAzFv3OuHR_QVSd3PI";
 const TIKUR_PAY_API_KEY = "sk_live_aa550127ef8a43b75634920a1f530fc1"; // not present in the original uploaded source
 const G2BULK_API_KEY = "g2b_c27320850ac72e700bb1f38f4932d531dd3fd1d5b1f4c4ce8a270b53420ac05e";
 const QAMIFY_API_KEY = "qamify_118f043842b281ef9aff681d472799d1e83e6b8d548df469";
