@@ -283,7 +283,7 @@ const CUSTOM_EMOJIS = {
   ADOBE: "5377466085870156737",            // Adobe
   DUOLINGO: "5796371348808799072",         // Super Duolingo
   MUSE: "5891219692881714411",             // Muse AI
-  CHATGPT: "587389958012538929",           // ChatGPT (verify this ID)
+  CHATGPT: "5787389958012538929",           // ChatGPT (verify this ID)
   GROK: "6179337489350663129",             // Grok
   CHANNEL: "5458603970916270333",
   START_HAND: "5472055112702629499",
