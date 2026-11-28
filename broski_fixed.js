@@ -188,7 +188,7 @@ const UPDATES_CHANNEL = "";
 // Public links shown by the main-menu navigation buttons. Replace these placeholders.
 const BOT_LOGS_LINK = "https://t.me/yabtopupp_group";
 const CHANNEL_LINK = "https://t.me/YABTOPUPP_SERVICE";
-const TUTORIAL_LINK = "https://youtube.com/@yabonlinework?si=cHYujQ2Q4ub40RWN";
+const TUTORIAL_LINK = "https://youtu.be/36qfcPWRfzg?si=JNTCrkfRc0BBN0uC";
 const TELEBIRR_PHONE = "0973669620"; // updated
 const MIN_DEPOSIT_BIRR = 50;
 const VERIFY_ET_BASE_URL = "https://verify.et";
